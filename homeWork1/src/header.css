@@ -1,0 +1,25 @@
+.header {
+    background-color: #10141b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.lists {
+    display: flex;
+    gap: 40px;
+}
+
+.lists .li {
+    font-size: 18px;
+}
+
+.logo {
+    font-size: 40px;
+    font-weight: bold;
+}

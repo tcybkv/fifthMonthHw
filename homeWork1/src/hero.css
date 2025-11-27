@@ -1,0 +1,11 @@
+.hero {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.main__inner {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
