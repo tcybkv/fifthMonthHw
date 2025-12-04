@@ -1,0 +1,18 @@
+{
+  "products": [
+    {"id": 1,"name": "Ноутбук"},
+    {"id": 2,"name": "Ноутбук"},
+    {"id": 3,"name": "Ноутбук"},
+    {"id": 4,"name": "Ноутбук"},
+    {"id": 5,"name": "Ноутбук"},
+    {"id": 6,"name": "Ноутбук"}
+  ],
+  "images": [
+    "../../public/rog.jpg",
+    "../../public/tuf.webp",
+    "../../public/predator.jpg",
+    "../../public/legion.jpg",
+    "../../public/alienware.webp",
+    "../../public/katana.webp"
+  ]
+}
